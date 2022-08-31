@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(273, 100%, 66%);
+}
+
+.heading{
+    
+   margin-left: 22rem;
+   margin-bottom: 2rem;
+}
+
+.input-field{
+    display: block;
+    margin-left: auto;
+    width: 750px;
+    border-radius: 20px;
+}
+
+.icons
+{
+    font-size: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+.del-icon{
+    cursor: pointer;
+    font-size: 20px;
+    
+}
